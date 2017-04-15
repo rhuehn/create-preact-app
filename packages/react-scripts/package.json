@@ -1,5 +1,5 @@
 {
-  "name": "@just-boris/preact-scripts",
+  "name": "@theatersoft/preact-scripts",
   "version": "0.8.5",
   "description": "Configuration and scripts for Create React App.",
   "repository": "facebookincubator/create-react-app",
